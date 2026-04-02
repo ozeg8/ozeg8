@@ -1,5 +1,5 @@
-[profile-README (2).md](https://github.com/user-attachments/files/26449413/profile-README.2.md)
-<h1 align="center">Emir</h1>
+
+<h1 align="center">I'm Emir</h1>
 
 <p align="center">
   <b>AI Automation · Software Quality · Founder</b>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://kobify.co"><img src="https://img.shields.io/badge/Kobify.co-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ozerg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -53,6 +53,6 @@ Founder of **[Kobify](https://kobify.co)** — deploying autonomous AI agents fo
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ozeg8&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="46%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozeg8&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+  <img src="https://streak-stats.demolab.com?user=ozeg8&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozeg8&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 </p>
