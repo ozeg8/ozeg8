@@ -1,5 +1,7 @@
 
-<h1 align="center">I'm Emir</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=I%27m%20Emir&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+</p>
 
 <p align="center">
   <b>AI Automation · Software Quality · Founder</b>
@@ -8,6 +10,7 @@
 <p align="center">
   <a href="https://kobify.co"><img src="https://img.shields.io/badge/Kobify.co-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ozerg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ozeg8&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -53,6 +56,5 @@ Founder of **[Kobify](https://kobify.co)** — deploying autonomous AI agents fo
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ozeg8&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozeg8&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer"/>
 </p>
