@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=I%27m%20Emir&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 </p>
@@ -29,6 +28,7 @@ Founder of **[Kobify](https://kobify.co)** — deploying autonomous AI agents fo
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -42,19 +42,10 @@ Founder of **[Kobify](https://kobify.co)** — deploying autonomous AI agents fo
 |---|---|---|
 | 🤖 | [whatsapp-ai-assistant-n8n](https://github.com/ozeg8/whatsapp-ai-assistant-n8n) | AI agent with permanent memory — knows every customer, forever |
 | 📩 | [n8n-gmail-ai-auto-reply](https://github.com/ozeg8/n8n-gmail-ai-auto-reply) | Zero-touch inbox — labels, reads, replies autonomously |
+| 📬 | [mail-tracker](https://github.com/ozeg8/mail-tracker) | Smart email tracker — summarizes inbox to Telegram, ignores spam |
+| 📊 | [ai-test-reporter](https://github.com/ozeg8/ai-test-reporter) | Autonomous test runner — executes full test suites for target websites |
 | 🧪 | [test-automation](https://github.com/ozeg8/test-automation) | BDD test framework · Selenium + Cucumber + Java |
 
 ---
 
 ## 🔭 Now
-
-```
-2026 — Agentic workflows with Claude Code
-        The gap between AI output and production-ready is where I work.
-```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer"/>
-</p>
